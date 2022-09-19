@@ -1,0 +1,64 @@
+
+
+.textarea{
+  background: rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37) !important;
+  border-radius: 1rem !important;
+  min-height: 6rem !important;
+  width: 80% !important;
+  padding: 1rem !important;
+  border: none !important;
+  outline: none !important;
+  color: #3c354e !important;
+  font-size: 1rem !important;
+  font-weight: bold !important;
+}
+
+.textinput{
+  background: rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37) !important;
+  border-radius: 1rem !important;
+  width: 80% !important;
+  height: 3rem;
+  padding: 1rem !important;
+  border: none !important;
+  outline: none !important;
+  color: #3c354e !important;
+  font-size: 1rem !important;
+  font-weight: bold !important;
+}
+
+
+.x-button{
+  background: linear-gradient(to right, #3d43af 0%, #8393c4 79%) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.2rem !important;
+  width: 20% !important;
+  height: 3rem !important;
+  border: none !important;
+  color: white !important;
+  border-radius: 0.5rem !important;
+  cursor: pointer !important;
+  margin-right: 10px;
+}
+
+.x-button{
+  background: linear-gradient(to right, #14163c 0%, #03217b 0%) !important;
+}
+
+.y-button{
+  background: linear-gradient(to right, #535697 0%, #2e4fb4 79%) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.2rem !important;
+  width: 20% !important;
+  height: 3rem !important;
+  border: none !important;
+  color: white !important;
+  border-radius: 0.5rem !important;
+  cursor: pointer !important;
+  margin-right: 5%;
+}
+
+.y-button:hover{
+  background: linear-gradient(to right, #535697 0%, #2e4fb4 0%) !important;
+}
